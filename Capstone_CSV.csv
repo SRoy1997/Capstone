@@ -1,0 +1,18 @@
+user_id,assessment,score,date_taken,manager
+5,For Loops,2,2022-04-11,1
+15,.append(),3,2022-04-11,7
+10,If Statements,4,2022-04-11,1
+2,Debugging,4,2022-04-11,13
+14,For Loops,4,2022-04-11,13
+16,If Statements,3,2022-04-11,7
+19,Not And Or,1,2022-04-11,13
+23,.append(),1,2022-04-11,1
+22,Not And Or,3,2022-04-11,1
+21,For Loops,2,2022-04-11,7
+20,Debugging,4,2022-04-11,7
+3,Variable Types,4,2022-04-11,7
+8,.append(),4,2022-04-11,13
+9,For Loops,4,2022-04-11,1
+11,If Statements,3,2022-04-11,1
+12,.append(),3,2022-04-11,13
+17,For Loops,2,2022-04-11,13
